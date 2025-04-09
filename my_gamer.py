@@ -11,7 +11,7 @@ MAPA_ALTURA = 20
 PAREDE = '#'
 CHAO = '.'
 
-# --- Cores (para terminal ANSI) ---
+# --- Cores (para terminal) ---
 class cores:
     RESET = '\033[0m'
     VERMELHO = '\033[91m'
